@@ -3,7 +3,7 @@ Code and text version of the advanced tutorial on Fyne Framework, Golang, InkkaP
 
 这是[B站InkkaPlum频道](https://space.bilibili.com/290859233), 知乎[Inkka Plum](https://www.zhihu.com/people/instead-opt)的Go Fyne进阶教程对应的项目源码和课件(文字版教程), 具体教程/操作方法请查看文件[项目综合说明(课件B)](项目综合说明(课件B).md)
 
-此外, 本教程必须要有上一期教程的基础。因此, 假如没有观看上一期教程的朋友, 请先学习上一期[Go Fyne内容](https://www.bilibili.com/video/BV1u142187Ps/), 而对应的课件和文字版教程也在Github上开源地分享, 因此请查看此[链接](https://github.com/Slumhee/Go001Fyne-01_gofynetutorials), 学习完上一期教程, 然后再学习此内容, 这是连续的。
+此外, 本教程必须要有上一期教程的基础。因此, 假如没有观看上一期教程的朋友, 请先学习上一期[Go Fyne内容](https://www.bilibili.com/video/BV1u142187Ps/), 而对应的课件和文字版教程也在Github上开源地分享, 因此请查看此[链接](https://github.com/Slumhee/Go001Fyne-01_gofynetutorials)以得到课件和文字版教程, 学习完上一期教程, 然后再学习此内容, 这是连续的。
 
 # 注意:
 
